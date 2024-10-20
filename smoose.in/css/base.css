@@ -547,7 +547,14 @@ textarea {
     flex-wrap: nowrap;
 }
 .custom-magic {
-    background: linear-gradient(101.66deg, #FFD400 26.89%, #FFD204 37.47%, #0CA8FE 66.26%, #0CA9FF 80.16%);
+    background:#ffffff;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.custom-agic {
+    background: linear-gradient(0deg, rgb(192, 255, 115), rgb(209, 255, 186) 0%, rgb(255, 255, 255) 50%, rgb(255, 255, 255) 100%);
     background-size: cover;
     background-clip: text;
     -webkit-background-clip: text;

@@ -84,7 +84,7 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #8dc63f;
+    color: #5A00CD;
     transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
@@ -1630,7 +1630,7 @@ input::-moz-focus-inner {
 }
 
 .s-intro--particles {
-    background-color: #010e0f;
+    background-color: #5A00CD;
 }
 
 .s-intro--particles::after {
@@ -2634,7 +2634,7 @@ html.no-csstransitions .intro-content__bottom {
 .link-list a:hover,
 .link-list a:focus,
 .link-list a:active {
-    color: #8dc63f;
+    color: #5A00CD;
 }
 
 /* tab contact bottom
